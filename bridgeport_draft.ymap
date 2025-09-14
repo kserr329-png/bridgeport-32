@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CMapData>
+  <Archetypes />
+  <Entities>
+    <Item>
+      <archetypeName>v_ret_ml_store1</archetypeName>
+      <position>265.000 -1000.000 29.5</position>
+      <rotation>0 0 0 1</rotation>
+      <scaleXY>1.0</scaleXY>
+      <scaleZ>1.0</scaleZ>
+    </Item>
+  </Entities>
+</CMapData>
